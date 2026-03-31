@@ -1,0 +1,6 @@
+Hello World
+ HEAD
+New change in dev
+
+Change in dev branch
+ 46dd3cd (Modified file1.txt on dev)
